@@ -1,0 +1,14 @@
+.card-list {
+  background: white;
+  padding: 2rem;
+}
+
+.list-item {
+  background: #df0195;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  color: white;
+  cursor: pointer;
+  margin: 1rem 0;
+  padding: 1rem 2rem;
+  text-align: center;
+}

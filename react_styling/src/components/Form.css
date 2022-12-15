@@ -1,0 +1,35 @@
+.form-control {
+  margin: 0.5rem 0;
+}
+
+.form-control input {
+  border: 1px solid #ccc;
+  display: block;
+  line-height: 1.5rem;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 0.25rem;
+  width: 100%;
+}
+
+.course-h2-control.invalid {
+  color: red;
+}
+
+.course-input-control.invalid {
+  background-color: rgb(247, 158, 158);
+}
+.class-h2-control.invalid {
+  color: red;
+}
+
+.class-input-control.invalid {
+  background-color: rgb(247, 158, 158);
+}
+
+.btn-form {
+  margin-top: 0.5rem;
+  border-radius: 10px;
+  background-color: rgb(247, 158, 158);
+}
+
